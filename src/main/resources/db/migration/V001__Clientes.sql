@@ -1,0 +1,5 @@
+CREATE TABLE clientes(
+id_cliente INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+nome VARCHAR(100),
+telefone VARCHAR(20),
+cidade_id INT NOT NULL);

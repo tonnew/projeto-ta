@@ -1,0 +1,4 @@
+CREATE TABLE cidades(
+id_cidade INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+nome VARCHAR(200),
+estado CHAR(2));
